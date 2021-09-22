@@ -1,0 +1,8 @@
+>>>>>>>>To See All Databases<<<<<<<<<
+show dbs
+
+>>>>>>>>>To create new database<<<<<<<<<<
+use databasename
+
+>>>>>>>>>To Create collect<<<<<<<<<<<<<<
+db.books.insert({'id':1, 'name':'John'})
